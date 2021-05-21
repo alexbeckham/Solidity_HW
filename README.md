@@ -43,7 +43,9 @@ Used Remix IDE to write contract language that allows one to pay 3 employees equ
     }
 }
 
+# Screenshots
+* how to send transactions
+* how transferred amount is distributed by each contract
+* how timeclock functionality can be tested 
 
-
-
-}
+# Testnet Address
