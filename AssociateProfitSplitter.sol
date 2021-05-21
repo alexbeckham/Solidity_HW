@@ -1,14 +1,7 @@
-# Solidity_HW
+pragma solidity ^0.5.0;
 
-# Associate Profit Splitter Contract
-
-Used Remix IDE to write contract language that allows one to pay 3 employees equal amounts. 
-
-
-    
-    pragma solidity ^0.5.0;
-
-    contract AssociateProfitSplitter {
+// lvl 1: equal split
+contract AssociateProfitSplitter {
     // @TODO: Create three payable addresses representing `employee_one`, `employee_two` and `employee_three`.
     address payable employee_one; 
     address payable employee_two;
@@ -43,7 +36,3 @@ Used Remix IDE to write contract language that allows one to pay 3 employees equ
     }
 }
 
-
-
-
-}
